@@ -1,0 +1,11 @@
+commit 72a2f31eea9cdad0b2a7562d071bce4e9136da91
+Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
+Date:   Thu Oct 1 14:08:39 2026 +0300
+
+    Ddd README and update git workflow log
+
+commit 6bfd56b1a078015c6556037c9677e94ac019a10e
+Author: Osama Alsmadi <oalsmadi@c2r2s11.42amman.com>
+Date:   Thu Oct 1 12:20:24 2026 +0300
+
+    add hello word , stage whith git add then commit it .
