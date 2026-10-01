@@ -1,46 +1,40 @@
 .:
 total 4
-drwxr-xr-x  6 oalsmadi _amman   62 Oct  1 10:09 .
-drwx------ 18 oalsmadi _amman 4096 Oct  1 10:07 ..
-drwxr-xr-x  2 oalsmadi _amman    6 Oct  1 10:09 and
-drwxr-xr-x  2 oalsmadi _amman    6 Oct  1 10:08 archives
-drwxr-xr-x  3 oalsmadi _amman   17 Oct  1 10:09 projects
-drwxr-xr-x  2 oalsmadi _amman    6 Oct  1 10:08 tools
-
-./and:
-total 0
-drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 10:09 .
-drwxr-xr-x 6 oalsmadi _amman 62 Oct  1 10:09 ..
+drwxr-xr-x  5 oalsmadi _amman   51 Oct  1 15:07 .
+drwx------ 22 oalsmadi _amman 4096 Oct  1 15:07 ..
+drwxr-xr-x  2 oalsmadi _amman    6 Oct  1 15:07 archives
+drwxr-xr-x  3 oalsmadi _amman   17 Oct  1 15:07 projects
+drwxr-xr-x  2 oalsmadi _amman    6 Oct  1 15:07 tools
 
 ./archives:
 total 0
-drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 10:08 .
-drwxr-xr-x 6 oalsmadi _amman 62 Oct  1 10:09 ..
+drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 15:07 .
+drwxr-xr-x 5 oalsmadi _amman 51 Oct  1 15:07 ..
 
 ./projects:
 total 0
-drwxr-xr-x 3 oalsmadi _amman 17 Oct  1 10:09 .
-drwxr-xr-x 6 oalsmadi _amman 62 Oct  1 10:09 ..
-drwxr-xr-x 4 oalsmadi _amman 37 Oct  1 10:09 web
+drwxr-xr-x 3 oalsmadi _amman 17 Oct  1 15:07 .
+drwxr-xr-x 5 oalsmadi _amman 51 Oct  1 15:07 ..
+drwxr-xr-x 4 oalsmadi _amman 37 Oct  1 15:07 web
 
 ./projects/web:
 total 0
-drwxr-xr-x 4 oalsmadi _amman 37 Oct  1 10:09 .
-drwxr-xr-x 3 oalsmadi _amman 17 Oct  1 10:09 ..
-drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 10:09 backend
-drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 10:09 frontend
+drwxr-xr-x 4 oalsmadi _amman 37 Oct  1 15:07 .
+drwxr-xr-x 3 oalsmadi _amman 17 Oct  1 15:07 ..
+drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 15:07 backend
+drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 15:07 frontend
 
 ./projects/web/backend:
 total 0
-drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 10:09 .
-drwxr-xr-x 4 oalsmadi _amman 37 Oct  1 10:09 ..
+drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 15:07 .
+drwxr-xr-x 4 oalsmadi _amman 37 Oct  1 15:07 ..
 
 ./projects/web/frontend:
 total 0
-drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 10:09 .
-drwxr-xr-x 4 oalsmadi _amman 37 Oct  1 10:09 ..
+drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 15:07 .
+drwxr-xr-x 4 oalsmadi _amman 37 Oct  1 15:07 ..
 
 ./tools:
 total 0
-drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 10:08 .
-drwxr-xr-x 6 oalsmadi _amman 62 Oct  1 10:09 ..
+drwxr-xr-x 2 oalsmadi _amman  6 Oct  1 15:07 .
+drwxr-xr-x 5 oalsmadi _amman 51 Oct  1 15:07 ..
