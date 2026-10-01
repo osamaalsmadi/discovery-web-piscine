@@ -1,1 +1,4 @@
-Why Git Makes Development Easier...
+1. Edit files
+2. git add .
+3. git commit -m 'message'
+4. git push origin main
