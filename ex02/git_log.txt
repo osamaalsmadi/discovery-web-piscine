@@ -1,8 +1,50 @@
-commit 72a2f31eea9cdad0b2a7562d071bce4e9136da91
+commit 59e6adffbddd9c460290542e8f934d7f88e719b2
 Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
-Date:   Thu Oct 1 14:08:39 2026 +0300
+Date:   Sun Oct 4 09:42:26 2026 +0300
 
-    Ddd README and update git workflow log
+    add hello.txt
+
+commit fe9406d3a6e046e6e9b208b2dbaba2ea9b167539
+Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
+Date:   Thu Oct 1 15:07:20 2026 +0300
+
+    Fix ex00: remove accidental 'and' directory from tree
+
+commit ffee7f5af9609f7782ab706f3d2ff1a8b7591c23
+Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
+Date:   Thu Oct 1 14:59:53 2026 +0300
+
+    Fix ex02 path and retain only required files
+
+commit 13b5a470936afc6d20a5efdd35043a24fdd6264b
+Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
+Date:   Thu Oct 1 14:57:53 2026 +0300
+
+    Fix ex02: track files correctly instead of submodule
+
+commit 47c11b9dee8f8a33c22395c7ab3c1a9f11e9b314
+Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
+Date:   Thu Oct 1 14:55:48 2026 +0300
+
+    Clean up ex01: retain only explicitly required files
+
+commit 4bf7b0b72fd4f2866cdc7b84f3f2ffb2167f44b9
+Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
+Date:   Thu Oct 1 14:52:05 2026 +0300
+
+    Final submission: Upload ex00, ex01, ex02, and ex03
+
+commit 6cffe1756872b0d86248391e9540e162e7f7725d
+Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
+Date:   Thu Oct 1 14:49:17 2026 +0300
+
+    Fix ex03 file contents
+
+commit ea30b0c2001a070b3bec68ba34839122749211a3
+Author: osama mohammad ahmad alsmadi <osamacyber2@gmail.com>
+Date:   Thu Oct 1 14:38:32 2026 +0300
+
+    Submit ex03 files
 
 commit 6bfd56b1a078015c6556037c9677e94ac019a10e
 Author: Osama Alsmadi <oalsmadi@c2r2s11.42amman.com>
