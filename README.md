@@ -1,16 +1,33 @@
-# discovery-web-piscine
+# Linux & Git Fundamentals
 
-Linux command-line, file-management, and Git workflow exercises.
+Command-line file management, Git workflows, and SSH authentication learning notes.
 
-## Explore the project
+**Linux · Shell · Git · Markdown**
 
-- [ex03/README.md](ex03/README.md)
+## Exercise guide
 
-## Exercise map
-
-| Folder | Focus |
+| Folder | Contents |
 | --- | --- |
-| `ex00/` | Directory structure |
-| `ex01/` | Shell file-management script and execution log |
-| `ex02/` | Git log and repository reference |
-| `ex03/` | Git workflow notes and project write-up |
+| [ex00](ex00/tree_structure.txt) | Recorded directory structure |
+| [ex01](ex01/manage_files.sh) | File-management shell script |
+| [ex02](ex02/git_log.txt) | Git history and repository reference |
+| [ex03](ex03/README.md) | Learning report, Git workflow, and SSH notes |
+
+## Explore
+
+Start with the [project write-up](ex03/README.md). Read the shell script before running it, because it performs file-system operations. Run practice commands inside a disposable working directory.
+
+## Learning outcomes
+
+- Navigate and organize files from a terminal.
+- Record changes with Git and inspect commit history.
+- Explain the relationship between local commits and remote repositories.
+- Distinguish public SSH keys from private credentials.
+
+## Requirements
+
+A POSIX-compatible shell and Git for the command-line exercises. The text reports can be read directly on GitHub.
+
+---
+
+Part of [Osama Alsmadi’s project portfolio](https://github.com/osamaalsmadi).
